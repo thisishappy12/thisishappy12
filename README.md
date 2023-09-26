@@ -8,13 +8,13 @@
 <a href="thisishappy12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/thisishappy" target="_blank">
+<a href="thisishappy" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCHokRzpYa0-JibUsK4DN7Yg" target="_blank">
+<a href="UCHokRzpYa0-JibUsK4DN7Yg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/thisishappy34?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+<a href="thisishappy34?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
