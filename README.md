@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a beginner web developer, and my journey in IT started with learning Python<img src="https://gifs.ru/gifs/404633bfb1f9d23668a3da0155558543fc88fd04d245aae3bf4c617db6c1626e" width="30px">. However, I didn't stop there and decided to dive into the world of web development. Now I have skills in HTML5, CSS3, and JavaScript, which I use happily to create attractive and interactive web pages. But that's not all! I have also studied Bootstrap and Django frameworks, which help me develop powerful and efficient web applications. Now I am ready to bring to life the most ambitious web projects!
+I am a beginner web developer, and my journey in IT started with learning Python<img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px">. However, I didn't stop there and decided to dive into the world of web development. Now I have skills in HTML5, CSS3, and JavaScript, which I use happily to create attractive and interactive web pages. But that's not all! I have also studied Bootstrap and Django frameworks, which help me develop powerful and efficient web applications. Now I am ready to bring to life the most ambitious web projects!
 
 
 
