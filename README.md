@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+I am a beginner web developer, and my journey in IT started with learning Python<img src="https://gifs.ru/gifs/404633bfb1f9d23668a3da0155558543fc88fd04d245aae3bf4c617db6c1626e" width="30px">. However, I didn't stop there and decided to dive into the world of web development. Now I have skills in HTML5, CSS3, and JavaScript, which I use happily to create attractive and interactive web pages. But that's not all! I have also studied Bootstrap and Django frameworks, which help me develop powerful and efficient web applications. Now I am ready to bring to life the most ambitious web projects!
 
 
 
