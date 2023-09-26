@@ -11,7 +11,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> -->
     <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://sun6-22.userapi.com/s/v1/ig1/UZ_VYnsrPiooExECSzzMoTwIUQPKp9Rdpkj_WbKd41go8lWuU6buSszHfB9AexIA38wt5qPK.jpg?size=957x957&quality=96&crop=33,33,957,957&ava=1" width="40" height="40" alt="VK Badge"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
