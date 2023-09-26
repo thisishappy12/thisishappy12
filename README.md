@@ -27,7 +27,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisishappy12&show_icons=true&count_private=true&hide_border=true&bg_color=0a0f0b&title_color=abd200" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisishappy12&show_icons=true&count_private=true&hide_border=true&bg_color=0a0f0b&title_color=abd200&color=ffffff" align="center" /></div>  
 
 
 <br/>  
