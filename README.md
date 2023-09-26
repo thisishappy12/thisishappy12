@@ -7,16 +7,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/thisishappy12" target="_blank">
+<a href="https://github.com/thisishappy12">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/thisishappy" target="_blank">
+<a href="https://www.behance.net/thisishappy">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://youtube.com/@ThisIsHappy?si=4R05qAG8tfGdh2hD">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/thisishappy34?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+<a href="https://instagram.com/thisishappy34?igshid=OGQ5ZDc2ODk2ZA==" >
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
