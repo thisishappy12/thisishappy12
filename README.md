@@ -1,5 +1,25 @@
 
 
+
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/thisishappy12" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/https://www.behance.net/thisishappy" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCHokRzpYa0-JibUsK4DN7Yg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://instagram.com/thisishappy34?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lap2usmkx33jn4dsbtv2afdlxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=00bd2f" /></div>  
