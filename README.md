@@ -9,9 +9,10 @@
 <p align="center">
   <img align="left" width="128" height="128" src="https://cdn3.emoji.gg/emojis/10441-broijustwokeup.png">
   
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=52&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
+  <a href="https://www.youtube.com/c/Фсоки?sub_confirmation=1">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a> 
+      <a href="https://www.youtube.com/c/Фсоки">
       
   <img align="right" width="128" height="128" src="https://cdn3.emoji.gg/emojis/44288-cat-what.png">
 </p>
