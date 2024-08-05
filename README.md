@@ -8,11 +8,26 @@
 
 <p align="center">
   <img align="left" width="128" height="128" src="https://cdn3.emoji.gg/emojis/10441-broijustwokeup.png">
-  
-  <a href="https://www.youtube.com/c/Фсоки?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a> 
-      <a href="https://www.youtube.com/c/Фсоки">
+
+  <a href="https://github.com/rishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/iamrishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/rishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/rishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/iamrishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/iamrishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
+  </div>  
       
   <img align="right" width="128" height="128" src="https://cdn3.emoji.gg/emojis/44288-cat-what.png">
 </p>
