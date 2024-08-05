@@ -15,6 +15,8 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fsoky?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Fsoky?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fsoky?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+  <img align="right" width="128" height="128" src="https://cdn3.emoji.gg/emojis/44288-cat-what.png">
    </p>
    
 <img align="right" width="128" height="128" src="https://cdn3.emoji.gg/emojis/44288-cat-what.png">
