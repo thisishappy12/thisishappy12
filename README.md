@@ -10,7 +10,7 @@
   <img align="left" width="128" height="128" src="https://cdn3.emoji.gg/emojis/10441-broijustwokeup.png">
 
   <a href="https://github.com/rishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/iamrishavanand" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
