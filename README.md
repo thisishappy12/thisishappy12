@@ -25,7 +25,7 @@
   <a href="@jqfwdwesp" target="_blank">
   <img src="https://img.shields.io/static/v1?message=telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
-  <a href="@jqfwdwesp" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199638173203/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=steam&logo=steam&label=&color=171d25&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
   <a href="https://www.behance.net/thisishappy12" target="_blank">
