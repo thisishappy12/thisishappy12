@@ -26,7 +26,8 @@
   <img align="right" width="128" height="128" src="https://cdn3.emoji.gg/emojis/44288-cat-what.png">
 </p>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<p align="center">
+  - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+</p>
 
 ###
