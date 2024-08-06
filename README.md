@@ -6,8 +6,8 @@
 
 
 ## Connect with me  
-<p align="center" justify-content: center>
-  <img align="left" width="128" height="128" src="https://cdn3.emoji.gg/emojis/10441-broijustwokeup.png">
+<p align="center">
+  <img align="left" justify-content:center width="128" height="128" src="https://cdn3.emoji.gg/emojis/10441-broijustwokeup.png">
 
   <a href="https://www.youtube.com/channel/UCHokRzpYa0-JibUsK4DN7Yg" target="_blank">
   <img src="https://img.shields.io/static/v1?message=youtube&logo=Youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
