@@ -17,7 +17,7 @@
 
 
 
-  ![](https://leetcard.thisishappy12.cool/leetcode?site=cn)
+
 
   
 ## Connect with me  
