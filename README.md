@@ -4,11 +4,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💻 Skills:
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-# 📋 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisishappy12&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisishappy12&theme=blue_navy&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=thisishappy12&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
