@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" /
 </div>
 
-# Studying
+# 📖 Studying
 <div display="flex">
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
