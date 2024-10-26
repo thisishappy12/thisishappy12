@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Привет 👋, я >Thisishappy</h3>
+    <h3>Привет 👋, я Thisishappy</h3>
 
 # 🛠️ Skills
 <div display="flex">
