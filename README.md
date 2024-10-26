@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hi 👋, im Thisishappy</h3>
+    <h3>Hi 👋, I'm Thisishappy</h3>
     <img width="150px" height="150px" src="https://github.com/thisishappy12/thisishappy12/blob/main/giphy.webp" >
 
 # 🛠️ Skills
